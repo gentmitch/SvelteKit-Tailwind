@@ -16,7 +16,7 @@ Once pnpm is finished run a local server with
 ```bash
 pnpm run dev
 ```
-# or start the server and open the app in a new browser tab
+## or start the server and open the app in a new browser tab
 ```bash
 pnpm run dev -- --open
 ```
