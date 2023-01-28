@@ -1,4 +1,4 @@
-# create-svelte
+# SvelteKit + Tailwindcss
 
 Note: this is using pnpm.
 
