@@ -8,15 +8,16 @@ Everything you need to build a Svelte project, with Tailwindcss.
 
 ```bash
 pnpm install
-
+```
 ## Developing
 
 Once pnpm is finished run a local server with
 
 ```bash
 pnpm run dev
-
+```
 # or start the server and open the app in a new browser tab
+```bash
 pnpm run dev -- --open
 ```
 
